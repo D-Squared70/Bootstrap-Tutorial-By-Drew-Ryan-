@@ -1,6 +1,6 @@
 # Bootstrap-Tutorial-Rick-&-Morty-Style 
 
-<img src="#" height=500px>
+<img src="Image/R&MScreenshot" height=500px>
 
 Project --> Bootstrap 4, HTML5, and CSS3 YouTube Tutorial by Drew Ryan 
 
